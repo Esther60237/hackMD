@@ -102,6 +102,14 @@ public static void main(String[] args){
 ![](https://i.imgur.com/J4bJ4Fw.png)
 
 
+### Eclipse 操作技巧
+![](https://i.imgur.com/17Hmb7j.png)
+
+快捷鍵設定：
+- Window->Preference->General->Keys
+- Ctrl+Shift+L可查看快捷鍵組合
+
+> [參考來源](https://sites.google.com/site/javaxuexizhi/eclipse-bian-ji-qi/eclipse-chang-yong-kuai-su-jian)
 
 基本資料字面常數
 ==
